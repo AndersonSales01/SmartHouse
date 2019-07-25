@@ -1,5 +1,5 @@
 # SmartHouse
-Controle da casa utilizando internet das coisas IOT
+Controle da casa com internet das coisas IOT
 
 # Controlando a sua casa de onde você tiver
 
